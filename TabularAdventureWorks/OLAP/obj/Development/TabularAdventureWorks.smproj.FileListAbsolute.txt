@@ -1,0 +1,14 @@
+F:\Golearn\AdventureWorks\TabularAdventureWorks\bin\Model.asdatabase
+F:\Golearn\AdventureWorks\TabularAdventureWorks\bin\Model.deploymenttargets
+F:\Golearn\AdventureWorks\TabularAdventureWorks\bin\Model.deploymentoptions
+F:\Golearn\AdventureWorks\TabularAdventureWorks\obj\Development\TabularAdventureWorks.smproj.CoreCompileInputs.cache
+F:\Golearn\AdventureWorks\TabularAdventureWorks\obj\Development\Model.asdatabase
+F:\Golearn\AdventureWorks\TabularAdventureWorks\obj\Development\Model.deploymentoptions
+F:\Golearn\AdventureWorks\TabularAdventureWorks\obj\Development\Model.deploymenttargets
+F:\GitHub\Data-Analyst-Portfolio-Project\TabularAdventureWorks\OLAP\bin\Model.asdatabase
+F:\GitHub\Data-Analyst-Portfolio-Project\TabularAdventureWorks\OLAP\bin\Model.deploymenttargets
+F:\GitHub\Data-Analyst-Portfolio-Project\TabularAdventureWorks\OLAP\bin\Model.deploymentoptions
+F:\GitHub\Data-Analyst-Portfolio-Project\TabularAdventureWorks\OLAP\obj\Development\TabularAdventureWorks.smproj.CoreCompileInputs.cache
+F:\GitHub\Data-Analyst-Portfolio-Project\TabularAdventureWorks\OLAP\obj\Development\Model.asdatabase
+F:\GitHub\Data-Analyst-Portfolio-Project\TabularAdventureWorks\OLAP\obj\Development\Model.deploymentoptions
+F:\GitHub\Data-Analyst-Portfolio-Project\TabularAdventureWorks\OLAP\obj\Development\Model.deploymenttargets
